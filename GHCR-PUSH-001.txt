@@ -1,0 +1,4 @@
+# DATE: 15.03.2024
+OK docker login ghcr.io -u ksmgen
+IN {key::classic-root-peregrine}
+OK docker push ghcr.io/ksmgen/ksm-node14-alpine:latest
